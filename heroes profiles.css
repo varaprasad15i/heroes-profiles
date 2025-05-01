@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    background-color: rgb(24, 26, 26);
+    color: aliceblue;
+    padding: 20px;
+}
+img{
+    border-radius: 50%;
+}
+h2{
+    color: aliceblue;
+    background-color: brown;
+    display:inline-block;
+    position: absolute;
+    left: 20%; 
+}
+p{
+    font-size: x-large;
+}
